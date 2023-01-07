@@ -1,8 +1,5 @@
 /*
  * Eric Nguyen 
- * CSE 007
- * 10/30/2022
- * Homework 6
  * Tic-Tac-Toe Game
  */
 
